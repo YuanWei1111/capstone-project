@@ -58,9 +58,9 @@ This project aims to:
 4. Car Age
 
 ### Web App Evaluation
-Tested the form with different vehicles including:
-- 
-- 
+Tested the model with different vehicles including:
+- 2020 BMW X5 $31417.04
+- 2015 BMW 650 $25274.01
 
 ## Discussion
 The machine learning model demonstrates high accuracy in pricing estimation and simulated depreciation. This tool can be valuable to:
