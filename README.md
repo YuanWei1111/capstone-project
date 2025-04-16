@@ -25,7 +25,7 @@ This project aims to:
 - Target: price 
 
 ## Methods
-![Method Pipeline](./flowchart.png)
+![Method Pipeline](./flowchat.png)
 
 - Data Source: A CSV file scraped from cars.com (~4,000 entries)
 - Data Cleaning: Removed rows with missing or invalid `price`, `model`, `brand`. Cleaned price strings, converted types, and filtered out unreasonable values.
